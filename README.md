@@ -6,15 +6,6 @@
 <img align="right" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif" alt="prathammeena1" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathammeena1&label=Profile%20views&color=0e75b6&style=flat" alt="prathammeena1" /> </p>
-
-- 🔭 I’m currently working on [React Contact Management App](https://contact-management-app-wua2.onrender.com/)
-
-- 🌱 I’m currently learning **React.Js and Next.Js**
-
-- 👨‍💻 All of my projects are available at [https://prathammeena1.github.io/portfolio/](https://prathammeena1.github.io/portfolio/)
-
-- 📫 How to reach me **yashmeena274@gmail.com**
-
 ###
 
 <div align="center">
