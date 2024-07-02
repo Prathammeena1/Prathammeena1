@@ -81,13 +81,13 @@
 
 <div align="center" style="display:flex; gap:2px;">
   <div style="display: inline-block; margin-right: 5px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathammeena1&show_icons=true&locale=en&layout=compact" alt="prathammeena1" />
-<img src="https://github-readme-stats.vercel.app/api?username=prathammeena1&show_icons=true&locale=en" alt="prathammeena1" />
+<img style="height: 23vh;" src="https://github-readme-stats.vercel.app/api?username=prathammeena1&show_icons=true&locale=en" alt="prathammeena1" />
+<img style="height: 23vh;" src="https://github-readme-streak-stats.herokuapp.com/?user=prathammeena1&" alt="prathammeena1" />
 
   </div>
 
   <div style="display: inline-block; margin-top:5px;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathammeena1&" alt="prathammeena1" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathammeena1&show_icons=true&locale=en&layout=compact" alt="prathammeena1" />
   </div>
 </div>
 
