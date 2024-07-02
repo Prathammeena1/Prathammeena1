@@ -1,13 +1,11 @@
-![logo](https://github.com/Prathammeena1/Prathammeena1/blob/main/Montserrat%20(1).png)
-
+![logo](<https://github.com/Prathammeena1/Prathammeena1/blob/main/Montserrat%20(1).png>)
 
 <h1 align="center">Hi 👋, I'm Pratham Meena</h1>
 <p align="center">As a second-year B.Tech student specializing in MERN stack and proficient in C language, I excel in both front-end and back-end development. Passionate about coding, I create dynamic, responsive web applications and thrive in collaborative projects, continuously learning to deliver innovative and impactful solutions.</p>
 
-<img align="right" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif" alt="prathammeena1" /> 
+<img align="right" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif" alt="prathammeena1" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathammeena1&label=Profile%20views&color=0e75b6&style=flat" alt="prathammeena1" /> </p>
-
 
 - 🔭 I’m currently working on [React Contact Management App](https://contact-management-app-wua2.onrender.com/)
 
@@ -66,10 +64,6 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
@@ -87,15 +81,27 @@
 
 <div align="center" style="display:flex; gap:2px;">
   <div style="display: inline-block; margin-right: 5px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathammeena1&show_icons=true&locale=en&layout=compact" alt="prathammeena1" />
+<img src="https://github-readme-stats.vercel.app/api?username=prathammeena1&show_icons=true&locale=en" alt="prathammeena1" />
+
+  </div>
+
+  <div style="display: inline-block; margin-top:5px;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathammeena1&" alt="prathammeena1" />
+  </div>
+</div>
+
+<!--
+<div align="center" style="display:flex; gap:2px;">
+  <div style="display: inline-block; margin-right: 5px;">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=webwithrathor&theme=dracula&show_icons=true&hide_border=false&count_private=true" />
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webwithrathor&theme=dracula&show_icons=true&hide_border=false&layout=compact" />
   </div>
 
-  
+
   <div style="display: inline-block; margin-top:5px;">
     <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=webwithrathor&theme=dracula&hide_border=false" />
   </div>
-</div>
-
+</div> -->
 
 ###
