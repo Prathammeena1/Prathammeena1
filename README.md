@@ -1,7 +1,7 @@
 ![logo](<https://github.com/Prathammeena1/Prathammeena1/blob/main/Montserrat%20(1).png>)
 
 <h1 align="center">Hi 👋, I'm Pratham Meena</h1>
-<p align="center">As a second-year B.Tech student specializing in MERN stack and proficient in C language, I excel in both front-end and back-end development. Passionate about coding, I create dynamic, responsive web applications and thrive in collaborative projects, continuously learning to deliver innovative and impactful solutions.</p>
+<h3 align="center">Aspiring MERN stack developer with a passion for building dynamic and responsive web applications. Skilled in MongoDB, Express.js, React, and Node.js, eager to learn and grow. Passionate about coding, I create dynamic, responsive web applications and thrive in collaborative projects, continuously learning to deliver innovative and impactful solutions.</h3>
 
 <img align="right" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif" alt="prathammeena1" />
 
