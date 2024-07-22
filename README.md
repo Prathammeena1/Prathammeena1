@@ -1,4 +1,4 @@
-<img style="width: 100%;" src="https://github.com/Prathammeena1/Prathammeena1/blob/main/bg.png" alt="prathammeena1" />
+<img draggable="false" style="width: 100%;" src="https://github.com/Prathammeena1/Prathammeena1/blob/main/bg.png" alt="prathammeena1" />
 
 <h1 align="center">Hi 👋, I'm Pratham Meena</h1>
 <h4 align="center">Aspiring MERN stack developer with a passion for building dynamic and responsive web applications. Skilled in MongoDB, Express.js, React, and Node.js, eager to learn and grow. Passionate about coding, I create dynamic, responsive web applications and thrive in collaborative projects, continuously learning to deliver innovative and impactful solutions.</h4>
